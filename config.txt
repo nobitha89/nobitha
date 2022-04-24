@@ -1,0 +1,3 @@
+ip HARDCORE_SMP_999.aternos.me
+port 38840
+name bot
