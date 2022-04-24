@@ -1,7 +1,0 @@
-"ip":"Oneblock999.aternos.me";
-"port":"56912";
-"Ghochu"
-
-
-
--
